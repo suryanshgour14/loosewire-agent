@@ -1,5 +1,5 @@
 {
-  "language": "javascript",
+  "language": "node",
   "install": "npm ci",
   "test": "npm test",
   "start": "npm run dev -- --host 0.0.0.0",
